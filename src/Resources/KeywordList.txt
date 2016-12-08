@@ -1,0 +1,5 @@
+Arts & Culture: art, literature, film, music, language, culture, tradition, religion, clothing, dress, fashion 
+Education: university, college, school, graduate, diploma, mathematics, reading, history, science 
+Geography: geography, city, state, country, ocean, lake, river, mountain, volcano, forest, desert, plant 
+Military & War: military, war, battle, weapon, army, tank, navy, ship, general, captain, treaty, casualty 
+Science & Technology: discovery, technology, engineering, science, mathematics, computer, code
